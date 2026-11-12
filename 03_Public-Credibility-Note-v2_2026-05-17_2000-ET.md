@@ -1,6 +1,6 @@
 # Building Before the Announcement: A Technical Record
 
-**Published by:** @samuel_riccardi  
+**Published by:** MK Shepherd ([@samuel_riccardi](https://x.com/samuel_riccardi) on X)  
 **Updated:** 2026-05-17 | Version 2 — full corpus re-assessment  
 **Dossier confidence score:** 95/100 (re-assessed on complete evidence corpus)
 

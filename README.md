@@ -15,4 +15,4 @@ Pre-release systems engineering record and overlap analysis relative to MiniMax 
 
 ## Contact
 
-- X: [@samuel_riccardi](https://x.com/samuel_riccardi)
+- MK Shepherd on X: [@samuel_riccardi](https://x.com/samuel_riccardi)
